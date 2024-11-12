@@ -1,0 +1,17 @@
+.container-fluid{
+    background-image: url('https://guidingmetrics.com/wp-content/uploads/2022/12/Rental-Car-Industry-3127x1344.jpg');
+    background-repeat: no-repeat;
+    background-size: 1550px 700px;
+    height: 720px;
+  
+}
+.myform{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    color: black;
+
+}

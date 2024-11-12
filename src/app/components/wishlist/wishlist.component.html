@@ -1,0 +1,19 @@
+<h1>My Wishlist</h1>
+<table class="table table-bordered">
+    <tr>
+       <th>vehicleId</th>
+       <th>vehiclePrice</th>
+       <th>vehicleName</th>
+       
+       
+       
+    </tr>
+    <tr *ngFor="let v of vehicles">
+        <td>{{v.vehicleId}}</td>
+        <td>{{v.vehiclePrice}}</td>
+        <td>{{v.vehicleName}}</td>
+        
+      
+
+    </tr>
+</table>
